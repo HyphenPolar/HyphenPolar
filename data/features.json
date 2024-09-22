@@ -8,10 +8,6 @@
     {
       "title": "Manual",
       "body": "More advanced builds manually tested."
-    },
-    {
-      "title": "Universal",
-      "body": "Comes with an auto injector that will apply the utility where possible."
     }
   ]
 }
