@@ -1,0 +1,25 @@
+{
+  "title": "Keybinds",
+  "fields": [
+    {
+      "title": "M",
+      "body": "Movement Multiplier."
+    },
+    {
+      "title": "P",
+      "body": "ESP."
+    },
+    {
+      "title": "T",
+      "body": "Click TP."
+    },
+    {
+      "title": "J",
+      "body": "Infinite Jump."
+    },
+    {
+      "title": "F",
+      "body": "No Clip."
+    }
+  ]
+}
