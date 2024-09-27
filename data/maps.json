@@ -1,0 +1,17 @@
+{
+
+    "gameSlug": "vrchat",
+
+    "gameName": "VRChat",
+
+    "mappingUrl": "https://avatarrecovery.com/Maps.csv.gz",
+
+    "mappingFileSHA512": "d6d0ca5e39d2d774eae4a07b3e47cd9d2af3e6ff42384f559a37185052bd5f09e76cc3c1d592bba89ae68e9fa66ad6a1e24d76d5f7e696738120e2a8556b5dc8",
+
+    "forceCpp2IlVersion": null,
+
+    "forceUnhollowerVersion": null,
+
+    "obfuscationRegex": null
+
+}
